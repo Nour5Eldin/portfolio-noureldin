@@ -1,4 +1,3 @@
-
 import { Button } from '@/components/ui/button';
 import { Github, Linkedin, Mail } from 'lucide-react';
 
@@ -9,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-pink-400 bg-clip-text text-transparent">
-              Alex Johnson
+              NourEldin Mahmoud
             </h3>
             <p className="text-gray-400">Frontend Developer</p>
           </div>
@@ -26,7 +25,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-slate-700 text-center text-gray-400">
-          <p>&copy; 2024 Alex Johnson. All rights reserved. Built with React & Tailwind CSS</p>
+          <p>&copy; 2024 NourEldin Mahmoud. All rights reserved. Built with React & Tailwind CSS</p>
         </div>
       </div>
     </footer>

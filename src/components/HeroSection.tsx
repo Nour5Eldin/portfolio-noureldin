@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { skills } from '@/data/portfolioData';
@@ -19,7 +18,7 @@ const HeroSection = () => {
       <div className="text-center z-10 max-w-4xl mx-auto">
         <div className="mb-8">
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-pink-400 bg-clip-text text-transparent animate-fade-in">
-            Alex Johnson
+            NourEldin Mahmoud
           </h1>
           <div className="text-2xl md:text-4xl text-gray-300 mb-6">
             Frontend Developer specializing in{' '}
